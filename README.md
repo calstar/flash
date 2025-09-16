@@ -35,14 +35,3 @@ iwr -useb https://raw.githubusercontent.com/calstar/flash/main/install.ps1 | iex
 
 See [README_CROSS_PLATFORM.md](README_CROSS_PLATFORM.md) for detailed installation instructions and configuration options.
 
-## Jetson Development
-
-For NVIDIA Jetson devices, use the specialized installation scripts:
-- `jetson_initial_flash.sh` - Initial system setup
-- `jetson_install_python_env.sh` - Python environment and tools
-- `jetson_install_opencv.sh` - OpenCV installation
-- `jetson_install_pyreqs_base.sh` - Base Python requirements
-
-## License
-
-This project is part of the Calstar development toolkit.
