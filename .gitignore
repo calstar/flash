@@ -1,0 +1,8 @@
+#deprc
+resources/bashdb
+resources/OpenCV/*
+!resources/OpenCV/.gitkeep
+resources/groundstation_python/*
+!resources/groundstation_python/.gitkeep
+#resources/DeepStream/*
+flash_log.txt
